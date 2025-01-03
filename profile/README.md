@@ -5,7 +5,7 @@
 
 A TypeScript client for interacting with the VirtFusion API.
 
-The project is available as [virtfusion npm package](https://www.npmjs.com/package/virtfusion).
+***🌟 The project is available as [virtfusion npm package](https://www.npmjs.com/package/virtfusion).***
 
 [![](https://github-readme-stats.on-cloud.eu.org/api/pin/?username=Lazco-Studio&repo=VirtFusion&show_owner=true&theme=onedark)](https://github.com/Lazco-Studio/VirtFusion)
 
